@@ -1,2 +1,2 @@
 # Java
-Java projects 
+Java projects; ScaleFocus;
